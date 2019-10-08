@@ -1,1 +1,1 @@
-[click](https://larooo.github.io/counter-redux)
+[click to try this app](https://larooo.github.io/counter-redux)
